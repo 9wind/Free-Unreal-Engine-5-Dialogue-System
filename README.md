@@ -1,5 +1,5 @@
 # Free Unreal Engine 5 Dialogue System
-Free, Versatile Unreal Engine 5 Dialogue System Driven by Data Tables
+Free, versatile and simple Unreal Engine 5 Dialogue System driven by Data Tables
 
 System is very simple. It's driven completely by Data Tables. It supports audio files, animation montages, decision making, custom cameras and custom events.
 To play decision just add values in "Decisions" array. To end dial after certain row just mark ShouldEnd in the DataTable. 
